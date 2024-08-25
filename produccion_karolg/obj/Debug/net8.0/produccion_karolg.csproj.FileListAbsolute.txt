@@ -1,0 +1,14 @@
+C:\Users\Isa\source\repos\produccion_karolg\produccion_karolg\bin\Debug\net8.0\produccion_karolg.exe
+C:\Users\Isa\source\repos\produccion_karolg\produccion_karolg\bin\Debug\net8.0\produccion_karolg.deps.json
+C:\Users\Isa\source\repos\produccion_karolg\produccion_karolg\bin\Debug\net8.0\produccion_karolg.runtimeconfig.json
+C:\Users\Isa\source\repos\produccion_karolg\produccion_karolg\bin\Debug\net8.0\produccion_karolg.dll
+C:\Users\Isa\source\repos\produccion_karolg\produccion_karolg\bin\Debug\net8.0\produccion_karolg.pdb
+C:\Users\Isa\source\repos\produccion_karolg\produccion_karolg\obj\Debug\net8.0\produccion_karolg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isa\source\repos\produccion_karolg\produccion_karolg\obj\Debug\net8.0\produccion_karolg.AssemblyInfoInputs.cache
+C:\Users\Isa\source\repos\produccion_karolg\produccion_karolg\obj\Debug\net8.0\produccion_karolg.AssemblyInfo.cs
+C:\Users\Isa\source\repos\produccion_karolg\produccion_karolg\obj\Debug\net8.0\produccion_karolg.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\produccion_karolg\produccion_karolg\obj\Debug\net8.0\produccion_karolg.dll
+C:\Users\Isa\source\repos\produccion_karolg\produccion_karolg\obj\Debug\net8.0\refint\produccion_karolg.dll
+C:\Users\Isa\source\repos\produccion_karolg\produccion_karolg\obj\Debug\net8.0\produccion_karolg.pdb
+C:\Users\Isa\source\repos\produccion_karolg\produccion_karolg\obj\Debug\net8.0\produccion_karolg.genruntimeconfig.cache
+C:\Users\Isa\source\repos\produccion_karolg\produccion_karolg\obj\Debug\net8.0\ref\produccion_karolg.dll
